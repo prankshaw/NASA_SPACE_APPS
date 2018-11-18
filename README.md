@@ -1,11 +1,12 @@
 # NASA_SPACE_APPS
-A NASA SPACE APP CHALLENGE NATIONAL FINALS PROJECT
+#### A NASA SPACE APP CHALLENGE FINALS PROJECT
 
 # Waterlook
 A project to find the location and level of water and analyzing over time.
 
-## Demo (Under Construction)
+## Demo (Under Construction, For old project)
 https://nasa-hack.github.io/
+</br> The latest project is not live. It has to be run on localhost to be viewed.
 
 # What we Intend to do
  - Features
